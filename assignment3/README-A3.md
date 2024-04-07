@@ -18,7 +18,7 @@ curl http://$(minikube ip)
 
 ![Curl Outputs](./curl_outputs.png)
 
-3. Cleanup for the pods
+3. Cleanup
 
 ```bash
 minikube delete
